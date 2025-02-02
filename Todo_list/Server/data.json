@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Abuthahir s",
+      "uid": 452,
+      "phone": 8056002186
+    },
+    {
+      "name": "Shaik",
+      "uid": 6,
+      "phone": 8056002186
+    },
+    {
+      "name": "Babar Azam",
+      "uid": 888,
+      "phone": 8056002186
+    },
+    {
+      "name": "Yusuf",
+      "uid": 1086,
+      "phone": 8056002186,
+      "gender": "male"
+    },
+    {
+      "name": "Kyle Mayers",
+      "email": "mayer@gmail.com",
+      "id": "ec89"
+    },
+    {
+      "name": "williamson",
+      "id": "4320"
+    }
+  ]
+}

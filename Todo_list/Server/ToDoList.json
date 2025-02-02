@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "id": "951d7f29-d5da-4209-bf79-524d557bf061",
+      "name": "Salah daily",
+      "completed": false
+    },
+    {
+      "id": "03a72b38-ac58-4477-913a-90ac78cc7eeb",
+      "name": "Eat healthy",
+      "completed": false
+    },
+    {
+      "id": "e69fc6cf-d372-4bb6-bd5b-d89efbed736e",
+      "name": "Learn React",
+      "completed": false
+    },
+    {
+      "id": "697c55f1-96bd-4599-9450-48719a4115d5",
+      "name": "Do Leetcode",
+      "completed": false
+    }
+  ]
+}

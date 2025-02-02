@@ -1,0 +1,65 @@
+786
+Roadmap for full-Stack
+
+1. JS
+
+let , const , var
+Scope
+temporal dead zone
+Primitive vs non data types
+object prototype , prototype inheritance
+type conversion vs type coercion
+ds
+object
+json
+exception handling
+spread operator , multiple arguments
+closure , callback
+this keyword
+
+ADVANCED :
+asynchronous
+promise
+api
+iterators & generators
+import & export
+memory lifecycle
+Garbage collection
+
+2. React
+
+CLI
+components : class vs functional
+JSX
+hooks
+props
+states
+conditional rendering
+composition
+rendering
+component life cycle
+list and key
+refs
+events
+higher order components
+router
+state management
+styling
+
+Aptitude
+
+
+
+to learn inshallah
+
+. DSA 
+. Aptitude
+. HTML
+. CSS
+. JS
+. React
+. Database
+. Backend preferably Django
+. Git
+. Docker
+. Deployment tools
